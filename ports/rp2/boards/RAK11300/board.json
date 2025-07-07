@@ -4,11 +4,6 @@
     ],
     "docs": "https://docs.rakwireless.com/Product-Categories/WisDuo/RAK11300-Module/Overview/",
     "features": [
-        "RP2040 MCU",
-        "SX1262 LoRa Transceiver",
-        "Dual-core Arm Cortex-M0+",
-        "External Flash (assumed 2MB, verify)",
-        "USB-C (if applicable, or header for USB)"
     ],
     "images": [
         "RAK11300.jpg"
